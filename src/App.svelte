@@ -57,7 +57,7 @@
     <div class="hero-body">
       <h1 class="title">What is Jacla?</h1>
       <p class="subtitle">
-        ジャズからロックまで
+        ジャズからロックまで!
       </p>
     </div>
   </section>
